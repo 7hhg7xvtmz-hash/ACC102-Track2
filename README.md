@@ -90,7 +90,7 @@ Expected Runtime: ~3-5 minutes on standard laptop
  
 GitHub Repository: [TBD]
  
-Demo Video: [TBD]
+Demo Video: [【ACC102-哔哩哔哩】 https://b23.tv/eXVCPYg]
 7. Limitations & Next Steps
 Current Limitations:
  

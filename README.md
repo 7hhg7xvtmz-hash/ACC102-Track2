@@ -1,6 +1,11 @@
 # ACC102-Track2
 ACC102 Python Data Product Track 2
 # Financial Distress Prediction: ML Pipeline with Data Leakage Detection
+## Demo Video
+[【ACC102-哔哩哔哩】 https://b23.tv/eXVCPYg]
+
+## Repository Link
+https://github.com/7hhg7xvtmz-hash/ACC102-Track2
 
 ## 1. Problem & User
 - **Problem**: How to predict corporate financial distress (negative net income) using accounting metrics while avoiding data leakage and ensuring model validity?

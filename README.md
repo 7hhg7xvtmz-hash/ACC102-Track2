@@ -88,9 +88,9 @@ Update file path in Step 1 if necessary
 Expected Runtime: ~3-5 minutes on standard laptop
 6. Product Link / Demo
  
-GitHub Repository: [Your GitHub Link Here]
+GitHub Repository: [TBD]
  
-Demo Video: [Bilibili/YouTube Link - 1-3 minutes]
+Demo Video: [TBD]
 7. Limitations & Next Steps
 Current Limitations:
  

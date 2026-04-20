@@ -88,7 +88,7 @@ Update file path in Step 1 if necessary
 Expected Runtime: ~3-5 minutes on standard laptop
 6. Product Link / Demo
  
-GitHub Repository: [TBD]
+GitHub Repository: [https://github.com/7hhg7xvtmz-hash/ACC102-Track2]
  
 Demo Video: [【ACC102-哔哩哔哩】 https://b23.tv/eXVCPYg]
 7. Limitations & Next Steps
